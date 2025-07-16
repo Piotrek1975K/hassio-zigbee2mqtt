@@ -1,7 +1,7 @@
 {
-  "name": "Zigbee2MQTT Edge",
+  "name": "Zigbee2MQTT Pietro",
   "version": "edge",
-  "slug": "zigbee2mqtt_edge",
+  "slug": "zigbee2mqtt_pietro",
   "description": "Development build of the Zigbee2MQTT add-on",
   "uart": true,
   "udev": true,
